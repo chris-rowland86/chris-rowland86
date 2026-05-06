@@ -1,3 +1,3 @@
 ### Hi there, I'm Chris :wave:
 
-I'm passionate about bringing forth novel therapies that transform patient's lives. Specifically, I love visualizing clinical trial data and gaining insights through data analysis. I'm super interested in learning new tools that support end-to-end clinical reporting with a particular focus on creating interactive dashboards for data visualization. :pill: :syringe:
+I dabble in data.
